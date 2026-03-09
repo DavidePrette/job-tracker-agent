@@ -1,9 +1,7 @@
 import sqlite3
 from pathlib import Path
 from datetime import datetime
-
 import pandas as pd
-
 
 DB_PATH = "data/jobs.db"
 REPORTS_DIR = Path("reports")
@@ -22,8 +20,11 @@ def generate_report() -> Path | None:
     cutoff = pd.Timestamp.now() - pd.Timedelta(days=31)
     recent_df = df[df["first_seen"] >= cutoff].copy()
 
+    # keep only jobs with at least one matched keyword
+    recent_df = recent_df[recent_df["relevance_score"] > 0].copy()
+
     if recent_df.empty:
-        print("No new jobs in the past 31 days.")
+        print("No relevant new jobs in the past 31 days.")
         return None
 
     recent_df = recent_df.sort_values(
@@ -40,14 +41,17 @@ def generate_report() -> Path | None:
 
     for org, group in recent_df.groupby("organization"):
         lines.append(f"## {org}\n")
+        lines.append("| Title | Keywords | Score | Link |")
+        lines.append("|---|---|---:|---|")
+
         for _, row in group.iterrows():
-            lines.append(f"- **{row['title']}**")
-            if row["location"]:
-                lines.append(f"  - Location: {row['location']}")
-            if row["matched_keywords"]:
-                lines.append(f"  - Matched keywords: {row['matched_keywords']}")
-            lines.append(f"  - Relevance score: {row['relevance_score']}")
-            lines.append(f"  - Link: {row['url']}\n")
+            title = str(row["title"]).replace("|", " ")
+            keywords = str(row["matched_keywords"]).replace("|", ", ")
+            score = row["relevance_score"]
+            link = row["url"]
+            lines.append(f"| {title} | {keywords} | {score} | [Open]({link}) |")
+
+        lines.append("")
 
     out_path.write_text("\n".join(lines), encoding="utf-8")
     print(f"Saved report to {out_path}")

@@ -11,6 +11,7 @@ def main() -> None:
     sources = pd.read_csv("data/sources.csv").fillna("")
 
     total_found = 0
+    total_stored = 0
     total_matched = 0
 
     for _, row in sources.iterrows():
@@ -23,7 +24,6 @@ def main() -> None:
         try:
             jobs = scrape_generic_jobs(organization, city, url)
             print(f"  Found {len(jobs)} possible jobs")
-
             total_found += len(jobs)
 
             for job in jobs:
@@ -34,25 +34,27 @@ def main() -> None:
                 ])
 
                 matched = match_keywords(full_text, keywords)
-                if not matched:
-                    continue
-
                 job["matched_keywords"] = ", ".join(matched)
-                job["relevance_score"] = score_job(full_text, matched)
+                job["relevance_score"] = score_job(full_text, matched) if matched else 0
 
                 upsert_job(job)
-                total_matched += 1
+                total_stored += 1
 
-                print(f"  Matched: {job['title']}")
-                print(f"    Keywords: {job['matched_keywords']}")
-                print(f"    Score: {job['relevance_score']}")
+                if matched:
+                    total_matched += 1
+                    print(f"  Matched: {job['title']}")
+                    print(f"    Keywords: {job['matched_keywords']}")
+                    print(f"    Score: {job['relevance_score']}")
+                else:
+                    print(f"  Stored only: {job['title']}")
 
         except Exception as e:
             print(f"  Failed: {e}")
 
     print("\nDone.")
     print(f"Total possible jobs found: {total_found}")
-    print(f"Total matched jobs stored: {total_matched}")
+    print(f"Total stored jobs: {total_stored}")
+    print(f"Total matched jobs: {total_matched}")
 
 
 if __name__ == "__main__":

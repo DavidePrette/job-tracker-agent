@@ -19,16 +19,18 @@ dac
 daccs
 beccs
 sustainability
+sustainable
 lca
 life cycle assessment
 energy systems
 systems modelling
+systems modeling
 optimization
 optimisation
 industrial decarbonization
 industrial decarbonisation
 net zero
 emissions
-policy
-renewable
 transition
+industrial ecology
+game theory
