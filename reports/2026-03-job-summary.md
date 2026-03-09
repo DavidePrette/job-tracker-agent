@@ -1,6 +1,6 @@
 # Monthly job summary
 
-Generated: 2026-03-09 15:36
+Generated: 2026-03-09 16:21
 
 ## Aalborg University
 
@@ -12,10 +12,10 @@ Generated: 2026-03-09 15:36
 
 | Title | Keywords | Score | Link |
 |---|---|---:|---|
+| Doctoral student (lic) From Behaviour to Emissions: Modeling modal shift | emissions | 3 | [Open](https://www.kth.se/lediga-jobb/899181?l=en) |
+| Doctoral student in Sustainable Metallurgy: Slag Design & Refractories | sustainable | 3 | [Open](https://www.kth.se/lediga-jobb/898070?l=en) |
 | Doctoral student in Optimal Transport for Optimization and Machine Learning | optimization | 2 | [Open](https://www.kth.se/lediga-jobb/877863?l=en) |
 | Postdoc in machine learning, autonomous decision-making, and optimization. | optimization | 2 | [Open](https://www.kth.se/lediga-jobb/904538?l=en) |
-| Doctoral student (lic) From Behaviour to Emissions: Modeling modal shift | emissions | 1 | [Open](https://www.kth.se/lediga-jobb/899181?l=en) |
-| Doctoral student in Sustainable Metallurgy: Slag Design & Refractories | sustainable | 1 | [Open](https://www.kth.se/lediga-jobb/898070?l=en) |
 
 ## NTNU
 
