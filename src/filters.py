@@ -24,11 +24,12 @@ def score_job(text: str, matched: list[str]) -> int:
     adjacent = {
         "energy", "climate", "decarbonization", "decarbonisation",
         "co2", "power-to-x", "ptx", "hydrogen", "renewable",
-        "transition", "net zero"
+        "transition", "net zero", "emissions", "sustainable"
     }
     future = {
         "optimization", "optimisation", "energy systems",
-        "systems modelling", "lca", "life cycle assessment", "policy"
+        "systems modelling", "systems modeling",
+        "lca", "life cycle assessment", "industrial ecology"
     }
 
     for kw in matched:

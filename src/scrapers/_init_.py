@@ -1,0 +1,7 @@
+from .kth import KTHScraper
+from .ntnu import NTNUScraper
+from .chalmers import ChalmersScraper
+from .aalborg import AalborgScraper
+from .html_scraper import GenericHtmlScraper
+from .hub_scraper import GenericHubScraper
+from .js_scraper import GenericJSScraper

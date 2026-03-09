@@ -2,7 +2,39 @@ import pandas as pd
 
 from db import init_db, upsert_job
 from filters import load_keywords, match_keywords, score_job
-from scrapers import scrape_generic_jobs
+
+from scrapers import (
+    KTHScraper,
+    NTNUScraper,
+    ChalmersScraper,
+    AalborgScraper,
+    GenericHtmlScraper,
+    GenericHubScraper,
+    GenericJSScraper,
+)
+
+
+def get_scraper(source: dict):
+    org = source.get("organization", "")
+    source_type = source.get("source_type", "html")
+
+    if org == "KTH":
+        return KTHScraper(source)
+    if org == "NTNU":
+        return NTNUScraper(source)
+    if org == "Chalmers":
+        return ChalmersScraper(source)
+    if org == "Aalborg University":
+        return AalborgScraper(source)
+
+    if source_type == "html":
+        return GenericHtmlScraper(source)
+    if source_type == "hub":
+        return GenericHubScraper(source)
+    if source_type == "javascript":
+        return GenericJSScraper(source)
+
+    return GenericHtmlScraper(source)
 
 
 def main() -> None:
@@ -15,14 +47,14 @@ def main() -> None:
     total_matched = 0
 
     for _, row in sources.iterrows():
-        organization = row["organization"]
-        city = row["city"]
-        url = row["url"]
+        source = row.to_dict()
+        organization = source.get("organization", "")
 
         print(f"\nChecking {organization} ...")
 
         try:
-            jobs = scrape_generic_jobs(organization, city, url)
+            scraper = get_scraper(source)
+            jobs = scraper.fetch_jobs()
             print(f"  Found {len(jobs)} possible jobs")
             total_found += len(jobs)
 

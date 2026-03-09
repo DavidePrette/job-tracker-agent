@@ -19,8 +19,6 @@ def generate_report() -> Path | None:
     df["first_seen"] = pd.to_datetime(df["first_seen"], errors="coerce")
     cutoff = pd.Timestamp.now() - pd.Timedelta(days=31)
     recent_df = df[df["first_seen"] >= cutoff].copy()
-
-    # keep only jobs with at least one matched keyword
     recent_df = recent_df[recent_df["relevance_score"] > 0].copy()
 
     if recent_df.empty:
