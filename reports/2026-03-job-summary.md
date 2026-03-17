@@ -1,6 +1,15 @@
 # Monthly job summary
 
-Generated: 2026-03-17 17:17
+Generated: 2026-03-17 17:24
+
+## Aalborg University
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Associate Professor in Thermal Energy with a Focus on Carbon Capture | energy, carbon, carbon capture | 9 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/912440) |
+| Associate professor in Life Cycle Assessment for the green transition | sustainability, life cycle assessment, transition | 6 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/913304) |
+| Postdoc in Environmental Assessment and Decision Support for Offshore Wind Farms | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/907617) |
+| Professor of Problem-Based Learning in Engineering Education | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/893778) |
 
 ## Chalmers
 
