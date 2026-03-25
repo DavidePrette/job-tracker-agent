@@ -1,6 +1,18 @@
 # Monthly job summary
 
-Generated: 2026-03-25 13:29
+Generated: 2026-03-25 13:47
+
+## AIT
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Senior Lead Researcher (f/m/d) - Power Electronics for Mobile Applications | energy | 5 | [Open](https://jobs.ait.ac.at/Job/262538) |
+| Software Engineer (f/m/d) – GIS & Data Spaces for a Sustainable and Resilient Society | sustainable | 5 | [Open](https://jobs.ait.ac.at/Job/256880) |
+| Communications Specialist (w/m/d) Energy | energy | 3 | [Open](https://jobs.ait.ac.at/Job/262630) |
+| Research Engineer (w/m/d) Projektleitung - Entwicklung Gebäudewärmepumpen | energy | 3 | [Open](https://jobs.ait.ac.at/Job/262752) |
+| Research Engineer (w/m/d) Projektleitung- Kühlung und Abwärmenutzung für Datacenter | energy | 3 | [Open](https://jobs.ait.ac.at/Job/264673) |
+| Software Engineer (w/m/d) für Batteriespeicher-Analyse | energy | 3 | [Open](https://jobs.ait.ac.at/Job/262796) |
+| Technician (w/m/d) - Anlagenentwicklung für Forschungsinfrastruktur | energy | 3 | [Open](https://jobs.ait.ac.at/Job/264329) |
 
 ## Aalborg University
 
@@ -14,6 +26,12 @@ Generated: 2026-03-25 13:29
 | Postdoctoral position in Human–Robot Interaction in healthcare: from experimental setups to sustainable collaboration | sustainable | 3 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/916274) |
 | Postdoc in Environmental Assessment and Decision Support for Offshore Wind Farms | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/907617) |
 | Postdoctoral researcher in Geospatial Machine Learning for Predicting Land Use Dynamics | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/917277) |
+
+## CSH
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| 3 Year PostDoc Position - Supply chains, global material flows and green transition Vienna Full-time Permanent employee | transition | 5 | [Open](https://csh.jobs.personio.com/job/2548274) |
 
 ## Careers@Gov
 

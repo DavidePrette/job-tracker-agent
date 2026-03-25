@@ -13,6 +13,8 @@ from scrapers import (
     RMIScraper,
     CareersGovScraper,
     RambollScraper,
+    AITScraper,
+    CSHScraper,
     GenericHtmlScraper,
     GenericHubScraper,
     GenericJSScraper,
@@ -41,6 +43,10 @@ def get_scraper(source: dict):
         return CareersGovScraper(source)
     if org == "Ramboll":
         return RambollScraper(source)
+    if org == "AIT":
+        return AITScraper(source)
+    if org == "CSH":
+        return CSHScraper(source)
 
     if source_type == "html":
         return GenericHtmlScraper(source)
