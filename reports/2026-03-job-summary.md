@@ -1,6 +1,6 @@
 # Monthly job summary
 
-Generated: 2026-03-25 11:44
+Generated: 2026-03-25 13:29
 
 ## Aalborg University
 
@@ -14,6 +14,28 @@ Generated: 2026-03-25 11:44
 | Postdoctoral position in Human–Robot Interaction in healthcare: from experimental setups to sustainable collaboration | sustainable | 3 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/916274) |
 | Postdoc in Environmental Assessment and Decision Support for Offshore Wind Farms | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/907617) |
 | Postdoctoral researcher in Geospatial Machine Learning for Predicting Land Use Dynamics | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/917277) |
+
+## Careers@Gov
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Deputy Director, Sustainable Energy, Urban Solutions and Sustainability New | energy, sustainability, sustainable | 7 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17325012/005056a3-d347-1fe1-89f8-0e1174e1e28d) |
+| AI Engineer (Data and Analytics Department) New | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17307042/005056a3-53e2-1fd1-89a1-005c67dfd3ea) |
+| Analyst - Senior Analyst (International Relations/ ERD) New | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17296632/005056a3-d347-1fe1-88e1-086f2a1ca28d) |
+| Analyst - Senior Principal Analyst (Nuclear Ecosystem) | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17099617/005056a3-53e2-1fd1-87ca-1e76b7f993ea) |
+| Analyst - Senior Principal Analyst (Nuclear Policy and Planning) | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17099614/005056a3-53e2-1fd1-87ca-2155b30fb3ea) |
+| Associate Engineer (Generation Operation Support/PSOD) New | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17302050/005056a3-d347-1fe1-88fa-69c12aa7a28d) |
+| Data Engineer (Data and Analytics Department) New | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17307043/005056a3-53e2-1fd1-89a1-00fa35b5f3ea) |
+| Data Scientist (DAD) New | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17185406/005056a3-53e2-1fd1-85e7-d7403af193ea) |
+| Engineer - Senior Principal Engineer (Electricity Network Infrastructure) | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17268371/005056a3-53e2-1fd1-87e3-490d608053ea) |
+| Engineer - Senior Principal Engineer (Gas System Performance/ GSD) | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17290727/005056a3-53e2-1fd1-88c7-e4d1efa0b3ea) |
+| Engineer - Senior Principal Engineer (Gas System Supervision/ PSOD) New | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17302054/005056a3-d347-1fe1-88fa-6e3b63a7e28d) |
+| Senior Engineer - Senior Principal Engineer (Strategic Land Planning) | energy | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17284099/005056a3-d347-1fe1-88ae-b7028099228d) |
+| Snr Assistant Director/Deputy Director (Career Development and Transition), WD | transition | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17197364/005056a3-d347-1fe1-88da-4fd8a306228d) |
+| Snr Exec/ Mgr (Career Development and Transition), Workforce Development New | transition | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17162953/005056a3-53e2-1fd1-89fc-11a623e613ea) |
+| Specialist/Sr Specialist (Sustainable Water & Resources) - 3 years contract, TED New | sustainable | 3 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17322016/005056a3-53e2-1fd1-89eb-ec96cd9233ea) |
+| Deputy Director (Sustainability) New | sustainability | 1 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17073037/005056a3-53e2-1fd1-8984-6eb7515cf3ea) |
+| Internship - NAP (Outreach & Engagement, C3PD) New | sustainability | 1 | [Open](https://jobs.careers.gov.sg/jobs/hrp/17312813/005056a3-d347-1fe1-89cc-65bc8b4b628d) |
 
 ## Chalmers
 
@@ -54,3 +76,13 @@ Generated: 2026-03-25 11:44
 | PhD Candidate in Hard Rock Geothermal Drilling and AI-Driven Drilling Optimization - IV-21/26 | optimization | 2 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/298154/phd-candidate-in-hard-rock-geothermal-drilling-and-ai-driven-drilling-optimization-iv-21-26) |
 | PhD Candidate in Process Systems Engineering and Real-Time Optimization | optimization | 2 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/297181/phd-candidate-in-process-systems-engineering-and-real-time-optimization) |
 | PhD Candidate in Biological Oceanography: Zooplankton and its role in the carbon pump | carbon | 1 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/296793/phd-candidate-in-biological-oceanography-zooplankton-and-its-role-in-the-carbon-pump) |
+
+## Ramboll
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Senior Engineer – Tech Safety (QRA & Loss Prevention) - Chennai | energy, hydrogen, sustainable | 9 | [Open](https://www.ramboll.com/careers/010d65e0-16d3-459b-8d5e-08de88a9bfc7) |
+| Student Assistant – Project Support, Power Systems | energy, sustainable, energy systems | 8 | [Open](https://www.ramboll.com/careers/50c64793-79c6-43d0-8d3f-08de88a9bfc7) |
+| Senior Highways Design Engineer | energy, sustainability, sustainable | 7 | [Open](https://www.ramboll.com/careers/334e76a5-9ee1-4402-70eb-08de7b70100b) |
+| Senior HR Business Partner (m/f/d)– Maternity Cover- until April 2027 | energy, sustainable | 6 | [Open](https://www.ramboll.com/careers/93272fe3-7de3-4175-7105-08de7b70100b) |
+| Intern- Buildings | carbon, sustainable | 4 | [Open](https://www.ramboll.com/careers/d1d2fec8-b210-4fcf-8d40-08de88a9bfc7) |
