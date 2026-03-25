@@ -4,6 +4,7 @@ from .chalmers import ChalmersScraper
 from .aalborg import AalborgScraper
 from .iaea import IAEAScraper
 from .oecd_iea import OECDIEAScraper
+from .rmi import RMIScraper
 from .html_scraper import GenericHtmlScraper
 from .hub_scraper import GenericHubScraper
 from .js_scraper import GenericJSScraper

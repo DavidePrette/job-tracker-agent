@@ -1,15 +1,19 @@
 # Monthly job summary
 
-Generated: 2026-03-17 17:24
+Generated: 2026-03-25 11:44
 
 ## Aalborg University
 
 | Title | Keywords | Score | Link |
 |---|---|---:|---|
 | Associate Professor in Thermal Energy with a Focus on Carbon Capture | energy, carbon, carbon capture | 9 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/912440) |
+| Assistant Professor in thermal processes in Power-to-X technologies | energy, power-to-x | 6 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/915795) |
 | Associate professor in Life Cycle Assessment for the green transition | sustainability, life cycle assessment, transition | 6 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/913304) |
+| Associate professor in Energy Planning and System Analysis | energy, sustainability | 4 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/914676) |
+| Assistant Professor in Preventive and Predictive Maintenance | energy | 3 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/916005) |
+| Postdoctoral position in Human–Robot Interaction in healthcare: from experimental setups to sustainable collaboration | sustainable | 3 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/916274) |
 | Postdoc in Environmental Assessment and Decision Support for Offshore Wind Farms | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/907617) |
-| Professor of Problem-Based Learning in Engineering Education | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/893778) |
+| Postdoctoral researcher in Geospatial Machine Learning for Predicting Land Use Dynamics | sustainability | 1 | [Open](https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/917277) |
 
 ## Chalmers
 
@@ -19,6 +23,7 @@ Generated: 2026-03-17 17:24
 | Doctoral student in energy systems | energy, energy systems | 5 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14668&notrack=true) |
 | Assistant or Associate Professors – Two WISE Fellows in Materials Science for a Sustainable Future | sustainable | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14331&notrack=true) |
 | Doctoral student in Hydrogen Embrittlement of Metallic Materials | hydrogen | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14670&notrack=true) |
+| Doctoral student in Land Use and Climate Impacts | climate | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14697&notrack=true) |
 | Doctoral student in Structural Battery Electrolytes for Cold-Climate Transport | climate | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14679&notrack=true) |
 | Doctoral student position in modeling polarons in emerging energy materials | energy | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14444&notrack=true) |
 | Postdoc in Data-driven Modelling and Optimisation for Fast Charging of Lithium-Ion Batteries | optimisation | 2 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14691&notrack=true) |
@@ -31,6 +36,7 @@ Generated: 2026-03-17 17:24
 | Doctoral student (lic) From Behaviour to Emissions: Modeling modal shift | emissions | 3 | [Open](https://www.kth.se/lediga-jobb/899181?l=en) |
 | Doctoral student in Collaboration for efficient and sustainable infrastructure development | sustainable | 3 | [Open](https://www.kth.se/lediga-jobb/908195?l=en) |
 | Doctoral student in Sustainable Metallurgy: Slag Design & Refractories | sustainable | 3 | [Open](https://www.kth.se/lediga-jobb/898070?l=en) |
+| Doctoral student in MSCA SecReSy4You: Security optimization in control systems | optimization | 2 | [Open](https://www.kth.se/lediga-jobb/915563?l=en) |
 | Doctoral student in Production Systems Modelling | systems modelling | 2 | [Open](https://www.kth.se/lediga-jobb/913027?l=en) |
 | Postdoc in machine learning, autonomous decision-making, and optimization. | optimization | 2 | [Open](https://www.kth.se/lediga-jobb/904538?l=en) |
 
@@ -44,5 +50,7 @@ Generated: 2026-03-17 17:24
 | PhD Candidate in Climate Risk Assessment | climate | 3 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/296540/phd-candidate-in-climate-risk-assessment) |
 | PhD Candidate in Risk-Consistent Design of Protection Structures for Climate-Adapted Infrastructure | climate | 3 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/297270/phd-candidate-in-risk-consistent-design-of-protection-structures-for-climate-adapted-infrastructure) |
 | Researcher within Sustainability assessment (LCA) of soil stabilization | sustainability, lca | 3 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/297183/researcher-within-sustainability-assessment-lca-of-soil-stabilization) |
+| Network Design and Logistics Optimization for Circular Food Supply Chains | optimization | 2 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/298431/network-design-and-logistics-optimization-for-circular-food-supply-chains) |
+| PhD Candidate in Hard Rock Geothermal Drilling and AI-Driven Drilling Optimization - IV-21/26 | optimization | 2 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/298154/phd-candidate-in-hard-rock-geothermal-drilling-and-ai-driven-drilling-optimization-iv-21-26) |
 | PhD Candidate in Process Systems Engineering and Real-Time Optimization | optimization | 2 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/297181/phd-candidate-in-process-systems-engineering-and-real-time-optimization) |
 | PhD Candidate in Biological Oceanography: Zooplankton and its role in the carbon pump | carbon | 1 | [Open](https://www.jobbnorge.no/ledige-stillinger/stilling/296793/phd-candidate-in-biological-oceanography-zooplankton-and-its-role-in-the-carbon-pump) |
